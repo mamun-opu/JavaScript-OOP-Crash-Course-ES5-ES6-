@@ -1,5 +1,6 @@
 // jokhon kuno object er specific kuno function ba property
-// onno object e use krte chai tokhn prototype use krte hoi .
+// shob shomoi use krte chacchi na, jokhn use krte chai tokhn call
+// kre niye kaj  krte chai tokhn prototype use krte hoi .
 // prototype function ba property object er proto property te thake
 
 function Book(title, author, year){
